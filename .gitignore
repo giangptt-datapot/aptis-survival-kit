@@ -1,0 +1,20 @@
+# Phụ thuộc / build (dự án không dùng, phòng khi thêm công cụ sau này)
+node_modules/
+dist/
+
+# Ảnh chụp và nhật ký sinh ra khi chạy tests/smoke.js
+shots/
+*.log
+
+# Bí mật và cấu hình máy cá nhân — không bao giờ commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
