@@ -56,3 +56,7 @@ Xem [docs/README.md](docs/README.md): PRD, Sitemap, User Flow, Schema LocalStora
 ## Đóng góp
 
 Mọi đề xuất cải thiện tài liệu, bài luyện tập hoặc công cụ đều được hoan nghênh. Vui lòng mở issue hoặc pull request để cùng phát triển dự án. Khi thêm hoặc sửa nội dung trong `js/data/`, hãy chạy `npm run validate`; khi đổi logic lõi, chạy `npm test`.
+
+## Giấy phép
+
+[MIT](LICENSE) © 2026 giangptt — áp dụng cho cả mã nguồn lẫn nội dung học (`js/data/`) và tài liệu (`docs/`). Nội dung học do AI soạn và chưa được giáo viên rà toàn bộ; phần mềm được cung cấp "nguyên trạng", không kèm bảo đảm nào (xem [LICENSE](LICENSE)).

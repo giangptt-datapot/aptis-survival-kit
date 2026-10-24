@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Website học Aptis ESOL B2 chạy hoàn toàn local: lộ trình 30 ngày, Diagnostic, luyện 6 kỹ năng, Mock Test. Không backend, không build.",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "serve": "python3 -m http.server 8080",
     "validate": "node tools/validate-data.js",
